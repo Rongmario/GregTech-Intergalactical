@@ -1,16 +1,16 @@
 [
-{
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
-  "url": "",
-  "updateUrl": "",
-  "authorList": ["CleanroomMC"],
-  "credits": "Authors of this project",
-  "logoFile": "",
-  "screenshots": [],
-  "dependencies": []
-}
+  {
+    "modid": "gregtech",
+    "name": "GregTech Intergalactical",
+    "description": "The Approved Continuation, Rewrite and Re-envisioning of GregTech.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["CleanroomMC", "Muramasa", "Rongmario", "Vliro", "qubka"],
+    "credits": "GregoriusT",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
 ]
